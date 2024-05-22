@@ -91,7 +91,7 @@ echo "<!DOCTYPE html>
     </section>
     <section id='contact'>
         <h2>Contact</h2>
-        <p>Feel free to reach out to me at: <a href='mailto:dodi@example.com'>dodi@example.com</a></p>
+        <p>Feel free to reach out to me at: <a href='mailto:dodilaqueen1234@gmail.com'>dodi@example.com</a></p>
     </section>
     <footer>
         <p>&copy; 2024 The Dodi. All rights reserved.</p>
